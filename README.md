@@ -1,1 +1,1 @@
-# Bayesian-Analysis-for-Breast-Cancer-Diagnosis
+# Demonstrating Enhanced Accuracy with Bayesian Logistic Regression
